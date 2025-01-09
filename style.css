@@ -305,7 +305,7 @@ html, body {
     line-height: 35px;
 }
 
-#page4-right #anda {
+#page4-right #oval {
     height: 260px;
     background-color: #CAC1B6;
     border: 1px solid #2f2f2fc6;
@@ -318,7 +318,7 @@ html, body {
     overflow: hidden;
 }
 
-#anda h1 {
+#oval h1 {
     font-size: 100px;
     font-weight: 100;
     font-family: canopee;
@@ -332,19 +332,19 @@ html, body {
     transition: all ease 0.6s;
 }
 
-#anda img {
+#oval img {
     height: 60px;
     transition: all ease 0.6s;
 
     transform: translateX(-120%);
 }
 
-#anda:hover img {
+#oval:hover img {
     transform: translateX(76%);
 
 }
 
-#anda:hover h1 {
+#oval:hover h1 {
     transform: translateX(100%);
 
 }
